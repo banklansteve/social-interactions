@@ -162,6 +162,7 @@ If you'd like to contribute to this package, feel free to fork the repository an
 ### Support
 
 For any issues or questions, please open an issue in the GitHub repository.
+Thank you.
 
 
 
