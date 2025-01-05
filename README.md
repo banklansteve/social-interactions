@@ -25,7 +25,7 @@ If you're using a version of Laravel earlier than 5.5 (which doesn't support pac
 'providers' => [
     // Other Service Providers
 
-    YourVendorName\SocialInteractions\SocialInteractionsServiceProvider::class,
+    BanklanSteve\SocialInteractions\SocialInteractionsServiceProvider::class,
 ],
 ```
 
@@ -33,7 +33,8 @@ If you're using a version of Laravel earlier than 5.5 (which doesn't support pac
 
 If you want to customize the default configuration, you can publish the package's config file:
 
-```php artisan vendor:publish --provider="YourVendorName\SocialInteractions\SocialInteractionsServiceProvider"
+```
+php artisan vendor:publish --provider="BanklanSteve\SocialInteractions\SocialInteractionsServiceProvider"
 ```
 
 
