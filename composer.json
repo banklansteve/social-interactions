@@ -2,7 +2,7 @@
     "name": "banklansteve/social-interactions",
     "description": "This Laravel package provides an elegant and customizable solution for adding social interaction features to your application. It supports liking, favoriting, and following/unfollowing models, making it perfect for social media platforms, community forums, or any application requiring user engagement functionality. The package is designed to be easy to integrate, lightweight, and extendable, allowing developers to quickly implement interaction features without reinventing the wheel. With support for polymorphic relationships, this package can be applied to any model, including posts, comments, users, and more, ensuring maximum flexibility for your application's needs.",
     "type": "library",
-    "license": "MT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Banklansteve\\SocialInteractions\\": "src/"
