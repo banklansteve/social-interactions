@@ -13,12 +13,15 @@
             "name": "BanklanSteve"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": "^9.0"
+    },
     "extra": {
-    "laravel": {
-        "providers": [
-            "BanklanSteve\\SocialInteractions\\SocialInteractionsServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "BanklanSteve\\SocialInteractions\\SocialInteractionsServiceProvider"
+            ]
+        }
     }
-}
 }
