@@ -13,7 +13,9 @@ This Laravel package provides functionalities for liking, favoriting, and follow
 
 You can install this package via Composer.
 
-`composer require banklansteve/social-interactions`
+```
+composer require banklansteve/social-interactions`
+```
 
 
 
